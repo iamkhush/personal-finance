@@ -10,4 +10,4 @@ Rust - The main reason is to build a project and enhance my knowledge.
 3. Personal expenses to be tagged with a family member
 4. Each member to be given a monthly budget
 5. Assets to be added and approx value added
-6. Visualize expenses with monthly and yealy levels.
+6. Visualize expenses with monthly and yearly levels.
